@@ -43,7 +43,7 @@ yarn install
 bun install
 ```
 
-## Getting Started
+### Getting Started
 
 Then, Launch the development server:
 
