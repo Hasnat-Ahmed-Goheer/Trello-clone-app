@@ -1,9 +1,38 @@
 # Trello Clone 2.0 🚀
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Trello-clone-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Trello-clone-app?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Trello-clone-app)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Trello-clone-app)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Trello-clone-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Trello-clone-app)
+![Static Badge](https://img.shields.io/badge/%20build-passing-brightgreen)
+
+![Node.js version](https://img.shields.io/badge/Node.js-v20.0.0-green)
+![Next.js version](https://img.shields.io/badge/Next.js-v14.0.1-blue)
+![react version](https://img.shields.io/badge/react-v18-brown)
+![Tailwind CSS version](https://img.shields.io/badge/Tailwind%20CSS-v3.3.6-blueviolet)
+![OpenAI API version](https://img.shields.io/badge/OpenAI%20API-v4.20.0-blue)
+![Appwrite version](https://img.shields.io/badge/Appwrite-v13.0.0-orange)
+![Zustand version](https://img.shields.io/badge/Zustand-v4.4.6-yellowgreen)
+![React Beautiful DnD version](https://img.shields.io/badge/React%20Beautiful%20DnD-v13.1.1-blue)
+![Hero Icons version](https://img.shields.io/badge/Hero%20Icons-v2.0.18-lightgrey)
+![React Avatar version](https://img.shields.io/badge/React%20Avatar-v5.0.3-success)
+![Headless UI](https://img.shields.io/badge/headless_UI-v1.7.17-pink)
+
+
+
+
+
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Trello-clone-app?label=Last%20Updated&color=yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
 ![alt Trello Clone 2.o](https://th.bing.com/th/id/OIG.RpQDMCWNv9Jye9fUwP3M?pid=ImgGn)
 
-## Introduction 📌
 
+## Introduction 📌
 'Trello Clone 2.0' is a sophisticated task management application built using Next.js 14. It replicates Trello's core functionalities and incorporates modern web technologies for an enhanced user experience.
 
 ## Key Technologies 🔧
@@ -16,6 +45,8 @@
 - **React Avatar:** To create user avatars.
 - **Hero Icons:** For UI iconography.
 - **OpenAI API:** Categorizes tasks into 'Todo', 'In Progress', and 'Completed'.
+- **headless UI**: For building accessible and composable UI components, ensuring a seamless and inclusive user experience."
+
 
 ## Deployment 🌐
 
