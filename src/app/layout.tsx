@@ -5,7 +5,7 @@ import Modal from '@/components/Modal/Modal';
 
 
 export const metadata: Metadata = {
-  title: 'Trello Clone 1.0',
+  title: 'Trello Clone 2.0',
   description: 'Created by Hasnat Ahmed Goheer',
 
 }
