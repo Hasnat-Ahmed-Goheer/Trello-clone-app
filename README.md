@@ -20,19 +20,14 @@
 ![React Avatar version](https://img.shields.io/badge/React%20Avatar-v5.0.3-success)
 ![Headless UI](https://img.shields.io/badge/headless_UI-v1.7.17-pink)
 
-
-
-
-
 ![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Trello-clone-app?label=Last%20Updated&color=yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
-
-![alt Trello Clone 2.o](https://th.bing.com/th/id/OIG.RpQDMCWNv9Jye9fUwP3M?pid=ImgGn)
-
+![image](https://github.com/Hasnat-Ahmed-Goheer/Trello-clone-app/assets/126459187/99b1bacb-9c30-4ce3-b4ea-dc3266e31f00)
 
 ## Introduction 📌
+
 'Trello Clone 2.0' is a sophisticated task management application built using Next.js 14. It replicates Trello's core functionalities and incorporates modern web technologies for an enhanced user experience.
 
 ## Key Technologies 🔧
@@ -46,7 +41,6 @@
 - **Hero Icons:** For UI iconography.
 - **OpenAI API:** Categorizes tasks into 'Todo', 'In Progress', and 'Completed'.
 - **headless UI**: For building accessible and composable UI components, ensuring a seamless and inclusive user experience."
-
 
 ## Deployment 🌐
 
@@ -87,6 +81,7 @@ pnpm dev
 # or
 bun dev
 ```
+
 Open http://localhost:3000 in a web browser to use the app.
 
 ## Contributing 🤝
