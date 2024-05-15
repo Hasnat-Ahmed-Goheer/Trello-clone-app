@@ -24,7 +24,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
-![image](https://github.com/Hasnat-Ahmed-Goheer/Trello-clone-app/assets/126459187/99b1bacb-9c30-4ce3-b4ea-dc3266e31f00)
+![image](https://github.com/Hasnat-Ahmed-Goheer/Trello-clone-app/assets/126459187/6476433d-6031-4de8-adb7-8b06a66b2250)
 
 ## Introduction 📌
 
